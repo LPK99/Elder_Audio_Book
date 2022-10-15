@@ -10,7 +10,7 @@ const HomeScreen2 = () => {
       <Box alignItems={'center'}>
       <Box style={styles.titleContainer}>
         <Text color="#fff" fontSize={31}>
-          SÁCH NÓI
+          Audio Book
         </Text>
       </Box>
       </Box>
