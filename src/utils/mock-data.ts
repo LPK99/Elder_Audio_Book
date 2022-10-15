@@ -44,7 +44,7 @@ Quân đội Đại đội 58 đã lao lên mở đường, và liên tiếp 8 q
 Phan Đình Giót được phong tặng danh hiệu Anh Hùng Quân Đội vào ngày 3 tháng 8 năm 1955, và được tặng Huân Chương Quân Công hạng Nhì.
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FAnh%20h%C3%B9ng%20Phan%20%C4%90%C3%ACnh%20Gi%C3%B3t.jpg?alt=media&token=8054f0b4-5cbb-4487-a38c-5f18dff6f0f9',
+      'https://firebasestorage.googleapis.com/v0/b/image-c6cc3.appspot.com/o/Phandinhgiot.jpg?alt=media&token=c740c3e0-9c3b-4cef-96dc-d8644443eda6',
     url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FAnh%20h%C3%B9ng%20Phan%20%C4%90%C3%ACnh%20Gi%C3%B3t.mp3?alt=media&token=c2da2907-280e-48f9-981a-5a42e344f115',
     id: 3,
     duration: 825,

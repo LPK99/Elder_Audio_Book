@@ -18,7 +18,7 @@ const MyTheme = {
   ...DefaultTheme,
   colors: {
     ...DefaultTheme.colors,
-    background: '#300000',
+    background: '#68a8ad',
     primary: 'rgb(255, 45, 85)',
   },
 };
