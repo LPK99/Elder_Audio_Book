@@ -11,7 +11,7 @@ Biết rõ âm mưu của địch song chị vẫn hồn nhiên,vui tươi, tin 
 Phẩm chất cao đẹp cùng cái chết hiên ngang của chị đã có sức cổ vũ lớn tới các đồng chí bị đầy đọa ở côn đảo ngày ấy cũng như về sau này trong thời kì Mỹ - Diệm đen tối.
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FAnh%20H%C3%B9ng%20V%C3%B5%20Th%E1%BB%8B%20S%C3%A1u.jpg?alt=media&token=a2ac86c5-8afe-4da3-91f5-a806941234e6',
+      'https://firebasestorage.googleapis.com/v0/b/image-c6cc3.appspot.com/o/vo_thi_sau.jpg?alt=media&token=e016f504-ef4b-426d-bde4-6dfb5d7e1d18',
     url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FAnh%20H%C3%B9ng%20V%C3%B5%20Th%E1%BB%8B%20S%C3%A1u.mp3?alt=media&token=9acae5dd-85cd-4e86-a133-d4e2b3d7bd05',
     id: 1,
     duration: 922,
@@ -59,43 +59,40 @@ Ngày 01/02/1954, anh Tô Vĩnh Diện đã hi sinh tại rừng Pá Có, sườ
 Ngày 7/5/1955, Tô Vĩnh Diện được Chủ tịch nước Việt Nam Dân chủ Cộng hoà trao tặng Huân chương Quân công hạng Nhì, Huân chương chiến công hạng Nhất và được truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân. Anh đã trở thành anh hùng Pháo cao xạ đầu tiên của quân đội ta ngã xuống trên mặt trận Điện Biên Phủ, sự hi sinh của anh đã đi vào lịch sử như một huyền thoại - quên mình cứu pháo
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FAnh%20h%C3%B9ng%20T%C3%B4%20V%C4%A9nh%20Di%E1%BB%87n.jpg?alt=media&token=dec7f145-ad8f-44e0-9798-526004580eee',
+      'https://firebasestorage.googleapis.com/v0/b/image-c6cc3.appspot.com/o/to_vinh_dien.jpg?alt=media&token=aa379005-6cdf-428b-bfde-7b4cbc92ff09',
     url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FAnh%20h%C3%B9ng%20T%C3%B4%20V%C4%A9nh%20Di%E1%BB%87n.mp3?alt=media&token=28ebf2be-ad86-4aa8-9b79-8612c59f9d32',
     id: 4,
     duration: 595,
   },
   {
-    title: 'Trần Quốc Toản',
-    description: `Trần Quốc Toản sinh năm 1267, được phong Hoài Văn hầu khi mới 15 tuổi. Thuộc dòng dõi hoàng tộc, Trần Quốc Toản lớn lên trong cảnh đất nước chuẩn bị chống quân Nguyên sang cướp phá và xâm lược nước ta lần thứ hai. Theo kết quả những nghiên cứu gần đây, Hoài Văn hầu Trần Quốc Toản là con của Vũ Uy vương Trần Nhật Duy và bà Trần Ý Ninh. Trần Quốc Toản là cháu nội của vua Trần Thái Tông.
-Tương truyền thuở nhỏ, Trần Quốc Toản rất ham mê cung kiếm, thao luyện võ nghệ, học tập binh thư và được Hưng Đạo vương rất khen ngợi. Khi mới 15 tuổi, thiếu niên này đã hừng hực chí lớn muốn diệt giặc, bảo vệ sự toàn vẹn cho non sông đất nước.
-Trước khi Hoài Văn hầu chào đời 10 năm, quân dân Đại Việt đã khiến giặc Nguyên Mông thua tan tác. Biết rằng giặc Nguyên Mông không bao giờ từ bỏ giấc mộng thôn tính Đại Việt, triều đình nhà Trần một mặt giảng hòa với nhà Nguyên, một mặt tích cực chuẩn bị lực lượng sẵn sàng ứng phó.
-Suốt từ năm 1258 trở đi, trong khoảng 1/4 thế kỷ, nhà Trần áp dụng phương sách đối ngoại mềm dẻo, linh hoạt nhưng cũng không kém phần cương quyết. Không ít lần vua Trần khéo léo từ chối những yêu sách quá quắt của Hốt Tất Liệt, hoàng đế Nguyên Mông. Tuy nhiên, khi chúng ta càng nhân nhượng, nhà Nguyên càng tỏ rõ ý đồ và chuẩn bị cho cuộc tấn công xuống nước ta. Trước nguy cơ đó, tháng 10/1282, vua Trần Nhân Tông triệu tập Hội nghị Bình Than để bàn phương hướng kháng chiến và quyết định lực lượng.
-Do mới 16 tuổi, Hoài Vương hầu không được mời dự hội nghị. Chàng thiếu niên này vẫn tới bến Bình Than, đòi được vào. Bị lính canh chặn cửa, Quốc Toản vặn hỏi: “Ta là Hoài Văn hầu, quan gia truyền gọi tất cả vương, hầu tới họp. Ta là hầu, cớ sao không cho vào?”. Thấy chuyện ầm ĩ bên ngoài, Trần Nhân Tông hỏi ra mới biết chuyện, bèn cho người mang ban cho Hoài Văn hầu một quả cam và khuyên lui bước vì chưa đến tuổi bàn việc nước.
-Đại Việt sử ký toàn thư chép: “Vua thấy Hoài Văn hầu Trần Quốc Toản, Hoài Nhân Vương Kiện đều còn trẻ tuổi, không cho dự bàn. Quốc Toản trong lòng hổ thẹn, tay cầm quả cam, bóp nát lúc nào không biết”. “Sau đó, Quốc Toản lui về, huy động hơn nghìn gia nô và người dân, sắm vũ khí, đóng chiến thuyền, thêu lên cờ sáu chữ: Phá cường địch, báo hoàng ân (phá giặc mạnh, báo ơn vua)".
-Năm 1285, vua Trần Nhân Tông sai Chiêu Thành Vương, Hoài Văn hầu Trần Quốc Toản và tướng quân Nguyễn Khoái đem một nhóm binh lính đón đánh quân Nguyên ở bến Tây Kết. Sách Đại Việt sử ký toàn thư chép: “Khi vào trận với giặc, (Hoài Văn hầu) tự mình xông lên trước quân sĩ, giặc trông thấy phải lui tránh, không dám đối địch”.
-Chỉ sau 1 tháng, quân Nguyên bị đánh bại ở Kinh Thành và Chương Dương. Tướng Nguyên là Thoát Hoan, Bình Chương A Lạt phải bỏ chạy qua sông Lô.
+    title: 'Chiến Dịch Điện Biên Phủ',
+    description: `Chiến dịch Điện Biên Phủ diễn ra trong 55 ngày đêm, nhưng các trận đánh không diễn ra liên tục mà được chia thành 3 giai đoạn:
+Giai đoạn 1: Từ ngày 13 đến 17-3-1954, quân ta đã tiêu diệt gọn cứ điểm Him Lam và Độc Lập, bức hàng cứ điểm Bản Kéo, phá vỡ cửa ngõ phía Bắc của tập đoàn cứ điểm Điện Biên Phủ; diệt và bắt sống trên 2.000 tên địch, phá hủy 25 máy bay, xóa sổ 1 trung đoàn, uy hiếp sân bay Mường Thanh; Pi rốt, Tư lệnh pháo binh Pháp ở Điện Biên Phủ bất lực trước pháo binh của ta đã dùng lựu đạn tự sát.
+Giai đoạn 2: Từ ngày 30-3 đến 30-4-1954, quân ta đồng loạt tiến công các cứ điểm phía Đông phân khu trung tâm; thắt chặt vòng vây, chia cắt, kiểm soát sân bay Mường Thanh, hạn chế tiếp viện của địch cho Tập đoàn cứ điểm.
+Đây là đợt tấn công dai dẳng, dài ngày nhất, quyết liệt nhất, gay go nhất, ta và địch giành giật nhau từng tấc đất, từng đoạn giao thông hào. Đặc biệt, tại đồi C1, ta và địch giằng co nhau tới 20 ngày và đồi A1 giằng co tới 30 ngày. Sau đợt tấn công thứ 2, khu trung tâm Điện Biên Phủ đã nằm trong tầm bắn các loại súng của ta, quân địch rơi vào tình trạng bị động, mất tinh thần cao độ.
+Giai đoạn 3: Từ ngày 1 đến 7-5-1954, ta đánh dứt điểm dãy đồi phía Đông và tổng tiến công tiêu diệt các vị trí còn lại, bắt sống Tướng De Castries, kết thúc chiến dịch.
+Sau 55 ngày đêm chiến đấu dũng cảm, mưu trí, sáng tạo, quân và dân ta đã đập tan toàn bộ Tập đoàn cứ điểm Điện Biên Phủ, tiêu diệt và bắt sống 16.200 tên, bắn rơi 62 máy bay, thu 64 ô tô và toàn bộ vũ khí, đạn dược, quân trang quân dụng của địch.
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FTr%E1%BA%A7n%20Qu%E1%BB%91c%20To%E1%BA%A3n%20v%C3%A0%20c%C3%A2u%20chuy%E1%BB%87n%20b%C3%B3p%20n%C3%A1t%20qu%E1%BA%A3%20cam.jpg?alt=media&token=4131cc72-4b1f-402d-ad22-4134ad0169cb',
-    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FTr%E1%BA%A7n%20Qu%E1%BB%91c%20To%E1%BA%A3n%20v%C3%A0%20c%C3%A2u%20chuy%E1%BB%87n%20b%C3%B3p%20n%C3%A1t%20qu%E1%BA%A3%20cam.jpg?alt=media&token=4131cc72-4b1f-402d-ad22-4134ad0169cb',
+      'https://firebasestorage.googleapis.com/v0/b/image-c6cc3.appspot.com/o/chien_dich_dien_bien_phu.jpg?alt=media&token=0d2a4280-5171-44dc-bc5f-a6d0fb2999ad',
+    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FT%C3%B3m%20t%E1%BA%AFt%20nhanh%20Chi%E1%BA%BFn%20D%E1%BB%8Bch%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7.mp3?alt=media&token=33aa8b2d-d43a-4d6e-a449-c0d7c03b8d31',
     id: 5,
-    duration: 641,
+    duration: 787,
   },
-  
+ 
   {
-    title: 'Đinh Bộ Lĩnh',
-    description: `Đinh Tiên Hoàng (tức Đinh Bộ Lĩnh), người động Hoa Lư, châu Đại Hoàng, Hoa Lư, Ninh Bình, con trai ông Đinh Công Trứ, một Nha tướng của Dương Quảng Nghệ, giữ chức Thứ sử Châu Hoan. Cha mất sớm, Đinh Bộ Lĩnh theo mẹ về quê, thường ngày đi chăn trâu, Lĩnh hay bắt lũ trẻ khoanh tay làm kiệu để ngồi, rồi cho chúng rước quanh đồng và lấy bông lau làm cờ, bày trận giả để đánh nhau.
- Lớn lên, nhờ thông minh, có khí phách và có tài thao lược, thấy nhân dân khổ sở vì loạn 12 sứ quân, ông bèn dựng cờ khởi nghĩa, mong lập nghiệp lớn.
-Đinh Bộ Lĩnh đi theo ngọn cờ của Trần Minh Công (tức Trần Lãm) ở Bố Hải Khẩu và được Trần Lãm nhận làm con nuôi. Khi Trần Lãm mất, Đinh Bộ Lĩnh thay quyền, đem quân về giữ Hoa Lư (Ninh Bình), ông đứng ra chiêu mộ hào kiệt để dẹp loạn 12 sứ quân.
-(Sự hình thành 12 sứ quân như sau: Từ ngày Đường Tam Kha cướp ngôi nhà Ngô, các nơi không chịu thần phục Đường Tam Kha, nên giặc giã nổi lên như sóng, mỗi thủ lĩnh cát cứ một vùng, thường đem quân đánh chiếm lẫn nhau, gây ra cảnh “nồi da nấu thịt” kéo dài suốt 20 năm).
-Sau 2 năm đánh Đông dẹp Bắc, năm 968, Đinh Bộ Lĩnh đã dẹp xong loạn 12 sứ quân, ông lên ngôi Hoàng đế, xưng là Đại Thắng Minh Hoàng Đế, đặt niên hiệu là Thái Bình, đặt quốc hiệu là Đại Cồ Việt, đóng đô ở Hoa Lư (Ninh Bình).
+    title: 'Cù Chính Lan',
+    description: `Cù Chính Lan sinh nǎm 1930 tại làng Quỳnh Đôi,huyện Quỳnh Lưu, tỉnh Nghệ An.Sinh ra trong một gia đình nông dân nghèo sớm tham gia hoạt động cách mạng.Năm 1945 anh tham gia đội du kích xã của Việt Minh giành chính quyền.Năm 1946 cuộc kháng chiến chống thực dân Pháp bùng nổ,anh xung phong tình nguyện nhập ngũ trở thành chiến sĩ liên lạc,sau lên đến chức vụ tiểu đội trưởng bộ binh thuộc Đại đoàn 304,trở thành Đảng viên Đảng Cộng Sản Việt Nam. Trong chiến dịch Hoà Bình (12/1951)Cù Chính Lan đã lập được nhiều chiến công,một mình đuổi xe tǎng Pháp,nhảy lên thành xe,ném lựu đạn vào buồng lái để tiêu diệt địch.Chiến dịch kết thúc thắng lợi Cù Chính Lan đã anh dũng hy sinh.Tấm gương của đồng chí đã có tác dụng cổ vũ toàn quân thi đua diệt xe tăng và xe cơ giới địch.
+Cù Chính Lan đã được tặng thưởng 1 Huân chương Quân công hạng hai.Trong Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất tháng 5 năm 1952,Cù Chính Lan được Chính phủ và Hồ Chủ tịch truy tặng Huân chương Quân công hạng hai, Huân chương Kháng chiến hạng nhất.Ngày 19 tháng 5 năm 1952, Cù Chính Lan được Chủ tịch nước Việt Nam dân chủ cộng hòa truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân.
+Cuộc đời Cù Chính Lan là tấm gương anh dũng hy sinh vì độc lập tự do của tổ quốc.Niềm tự hào của tuổi trẻ Việt Nam.
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FC%E1%BA%ADu%20b%C3%A9%20c%E1%BB%9D%20lau%20-%20%C4%90inh%20B%E1%BB%99%20L%C4%A9nh.jpg?alt=media&token=6f69ed55-a9c2-4dfa-a686-193a345b7fd2',
-    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FC%E1%BA%ADu%20b%C3%A9%20c%E1%BB%9D%20lau%20-%20%C4%90inh%20B%E1%BB%99%20L%C4%A9nh.mp3?alt=media&token=7f42f2af-ece5-41e2-805c-9c663e43cdfb',
+      'https://firebasestorage.googleapis.com/v0/b/image-c6cc3.appspot.com/o/c%C3%B9%20ch%C3%ADnh%20lan.jpg?alt=media&token=71412edd-fdde-4fd4-9510-6b7f275ca471',
+    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FAnh%20h%C3%B9ng%20C%C3%B9%20Ch%C3%ADnh%20Lan.mp3?alt=media&token=3bddec2f-5c7e-414b-a854-555dfd550d3e',
     id: 6,
-    duration: 2199,
+    duration: 625,
   },
+ 
   {
     title: 'Chiến thắng Bạch Đằng',
     description: `Cuối năm 938, quân Nam Hán do Lưu Hoằng Tháo chỉ huy kéo vào nước ta theo đường thủy . Ngô Quyền cho một toán thuyền nhẹ ra nhử quân địch vào sông Bạch Đằng lúc nước triều đang lên.Lưu Hoằng Tháo dốc quân đuổi theo, lọt vào trận địa mai phục cọc ngầm của ta mà không biết. Nước triều rút, Ngô Quyền hạ lệnh dốc toàn lực lượng đánh quật trở lại. Quân Nam Hán chống cự không nổi phải rút chạy ra biển.Quân giặc vướng phải trận địa cọc ngầm  thiệt hại quá nửa, tướng giặc Lưu Hoằng Tháo bị chết. Vua Nam Hán được tin bại trận  vội hạ lệnh thu quân về nước.
@@ -191,30 +188,35 @@ Ngày 1 tháng 11 năm 1320, Phạm Ngũ Lão mất, hưởng thọ 66 tuổi. V
     duration: 607,
   },
   {
-    title: 'Chiến Dịch Điện Biên Phủ',
-    description: `Chiến dịch Điện Biên Phủ diễn ra trong 55 ngày đêm, nhưng các trận đánh không diễn ra liên tục mà được chia thành 3 giai đoạn:
-Giai đoạn 1: Từ ngày 13 đến 17-3-1954, quân ta đã tiêu diệt gọn cứ điểm Him Lam và Độc Lập, bức hàng cứ điểm Bản Kéo, phá vỡ cửa ngõ phía Bắc của tập đoàn cứ điểm Điện Biên Phủ; diệt và bắt sống trên 2.000 tên địch, phá hủy 25 máy bay, xóa sổ 1 trung đoàn, uy hiếp sân bay Mường Thanh; Pi rốt, Tư lệnh pháo binh Pháp ở Điện Biên Phủ bất lực trước pháo binh của ta đã dùng lựu đạn tự sát.
-Giai đoạn 2: Từ ngày 30-3 đến 30-4-1954, quân ta đồng loạt tiến công các cứ điểm phía Đông phân khu trung tâm; thắt chặt vòng vây, chia cắt, kiểm soát sân bay Mường Thanh, hạn chế tiếp viện của địch cho Tập đoàn cứ điểm.
-Đây là đợt tấn công dai dẳng, dài ngày nhất, quyết liệt nhất, gay go nhất, ta và địch giành giật nhau từng tấc đất, từng đoạn giao thông hào. Đặc biệt, tại đồi C1, ta và địch giằng co nhau tới 20 ngày và đồi A1 giằng co tới 30 ngày. Sau đợt tấn công thứ 2, khu trung tâm Điện Biên Phủ đã nằm trong tầm bắn các loại súng của ta, quân địch rơi vào tình trạng bị động, mất tinh thần cao độ.
-Giai đoạn 3: Từ ngày 1 đến 7-5-1954, ta đánh dứt điểm dãy đồi phía Đông và tổng tiến công tiêu diệt các vị trí còn lại, bắt sống Tướng De Castries, kết thúc chiến dịch.
-Sau 55 ngày đêm chiến đấu dũng cảm, mưu trí, sáng tạo, quân và dân ta đã đập tan toàn bộ Tập đoàn cứ điểm Điện Biên Phủ, tiêu diệt và bắt sống 16.200 tên, bắn rơi 62 máy bay, thu 64 ô tô và toàn bộ vũ khí, đạn dược, quân trang quân dụng của địch.
+    title: 'Trần Quốc Toản',
+    description: `Trần Quốc Toản sinh năm 1267, được phong Hoài Văn hầu khi mới 15 tuổi. Thuộc dòng dõi hoàng tộc, Trần Quốc Toản lớn lên trong cảnh đất nước chuẩn bị chống quân Nguyên sang cướp phá và xâm lược nước ta lần thứ hai. Theo kết quả những nghiên cứu gần đây, Hoài Văn hầu Trần Quốc Toản là con của Vũ Uy vương Trần Nhật Duy và bà Trần Ý Ninh. Trần Quốc Toản là cháu nội của vua Trần Thái Tông.
+Tương truyền thuở nhỏ, Trần Quốc Toản rất ham mê cung kiếm, thao luyện võ nghệ, học tập binh thư và được Hưng Đạo vương rất khen ngợi. Khi mới 15 tuổi, thiếu niên này đã hừng hực chí lớn muốn diệt giặc, bảo vệ sự toàn vẹn cho non sông đất nước.
+Trước khi Hoài Văn hầu chào đời 10 năm, quân dân Đại Việt đã khiến giặc Nguyên Mông thua tan tác. Biết rằng giặc Nguyên Mông không bao giờ từ bỏ giấc mộng thôn tính Đại Việt, triều đình nhà Trần một mặt giảng hòa với nhà Nguyên, một mặt tích cực chuẩn bị lực lượng sẵn sàng ứng phó.
+Suốt từ năm 1258 trở đi, trong khoảng 1/4 thế kỷ, nhà Trần áp dụng phương sách đối ngoại mềm dẻo, linh hoạt nhưng cũng không kém phần cương quyết. Không ít lần vua Trần khéo léo từ chối những yêu sách quá quắt của Hốt Tất Liệt, hoàng đế Nguyên Mông. Tuy nhiên, khi chúng ta càng nhân nhượng, nhà Nguyên càng tỏ rõ ý đồ và chuẩn bị cho cuộc tấn công xuống nước ta. Trước nguy cơ đó, tháng 10/1282, vua Trần Nhân Tông triệu tập Hội nghị Bình Than để bàn phương hướng kháng chiến và quyết định lực lượng.
+Do mới 16 tuổi, Hoài Vương hầu không được mời dự hội nghị. Chàng thiếu niên này vẫn tới bến Bình Than, đòi được vào. Bị lính canh chặn cửa, Quốc Toản vặn hỏi: “Ta là Hoài Văn hầu, quan gia truyền gọi tất cả vương, hầu tới họp. Ta là hầu, cớ sao không cho vào?”. Thấy chuyện ầm ĩ bên ngoài, Trần Nhân Tông hỏi ra mới biết chuyện, bèn cho người mang ban cho Hoài Văn hầu một quả cam và khuyên lui bước vì chưa đến tuổi bàn việc nước.
+Đại Việt sử ký toàn thư chép: “Vua thấy Hoài Văn hầu Trần Quốc Toản, Hoài Nhân Vương Kiện đều còn trẻ tuổi, không cho dự bàn. Quốc Toản trong lòng hổ thẹn, tay cầm quả cam, bóp nát lúc nào không biết”. “Sau đó, Quốc Toản lui về, huy động hơn nghìn gia nô và người dân, sắm vũ khí, đóng chiến thuyền, thêu lên cờ sáu chữ: Phá cường địch, báo hoàng ân (phá giặc mạnh, báo ơn vua)".
+Năm 1285, vua Trần Nhân Tông sai Chiêu Thành Vương, Hoài Văn hầu Trần Quốc Toản và tướng quân Nguyễn Khoái đem một nhóm binh lính đón đánh quân Nguyên ở bến Tây Kết. Sách Đại Việt sử ký toàn thư chép: “Khi vào trận với giặc, (Hoài Văn hầu) tự mình xông lên trước quân sĩ, giặc trông thấy phải lui tránh, không dám đối địch”.
+Chỉ sau 1 tháng, quân Nguyên bị đánh bại ở Kinh Thành và Chương Dương. Tướng Nguyên là Thoát Hoan, Bình Chương A Lạt phải bỏ chạy qua sông Lô.
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FT%C3%B3m%20t%E1%BA%AFt%20nhanh%20Chi%E1%BA%BFn%20D%E1%BB%8Bch%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7.jpg?alt=media&token=ce9eba0f-6b2a-4159-9685-646fa9e58228',
-    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FT%C3%B3m%20t%E1%BA%AFt%20nhanh%20Chi%E1%BA%BFn%20D%E1%BB%8Bch%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7.mp3?alt=media&token=33aa8b2d-d43a-4d6e-a449-c0d7c03b8d31',
+      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FTr%E1%BA%A7n%20Qu%E1%BB%91c%20To%E1%BA%A3n%20v%C3%A0%20c%C3%A2u%20chuy%E1%BB%87n%20b%C3%B3p%20n%C3%A1t%20qu%E1%BA%A3%20cam.jpg?alt=media&token=4131cc72-4b1f-402d-ad22-4134ad0169cb',
+    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FTr%E1%BA%A7n%20Qu%E1%BB%91c%20To%E1%BA%A3n%20v%C3%A0%20c%C3%A2u%20chuy%E1%BB%87n%20b%C3%B3p%20n%C3%A1t%20qu%E1%BA%A3%20cam.jpg?alt=media&token=4131cc72-4b1f-402d-ad22-4134ad0169cb',
     id: 14,
-    duration: 787,
+    duration: 641,
   },
+  
   {
-    title: 'Cù Chính Lan',
-    description: `Cù Chính Lan sinh nǎm 1930 tại làng Quỳnh Đôi,huyện Quỳnh Lưu, tỉnh Nghệ An.Sinh ra trong một gia đình nông dân nghèo sớm tham gia hoạt động cách mạng.Năm 1945 anh tham gia đội du kích xã của Việt Minh giành chính quyền.Năm 1946 cuộc kháng chiến chống thực dân Pháp bùng nổ,anh xung phong tình nguyện nhập ngũ trở thành chiến sĩ liên lạc,sau lên đến chức vụ tiểu đội trưởng bộ binh thuộc Đại đoàn 304,trở thành Đảng viên Đảng Cộng Sản Việt Nam. Trong chiến dịch Hoà Bình (12/1951)Cù Chính Lan đã lập được nhiều chiến công,một mình đuổi xe tǎng Pháp,nhảy lên thành xe,ném lựu đạn vào buồng lái để tiêu diệt địch.Chiến dịch kết thúc thắng lợi Cù Chính Lan đã anh dũng hy sinh.Tấm gương của đồng chí đã có tác dụng cổ vũ toàn quân thi đua diệt xe tăng và xe cơ giới địch.
-Cù Chính Lan đã được tặng thưởng 1 Huân chương Quân công hạng hai.Trong Đại hội liên hoan Anh hùng và Chiến sĩ thi đua toàn quốc lần thứ nhất tháng 5 năm 1952,Cù Chính Lan được Chính phủ và Hồ Chủ tịch truy tặng Huân chương Quân công hạng hai, Huân chương Kháng chiến hạng nhất.Ngày 19 tháng 5 năm 1952, Cù Chính Lan được Chủ tịch nước Việt Nam dân chủ cộng hòa truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân.
-Cuộc đời Cù Chính Lan là tấm gương anh dũng hy sinh vì độc lập tự do của tổ quốc.Niềm tự hào của tuổi trẻ Việt Nam.
+    title: 'Đinh Bộ Lĩnh',
+    description: `Đinh Tiên Hoàng (tức Đinh Bộ Lĩnh), người động Hoa Lư, châu Đại Hoàng, Hoa Lư, Ninh Bình, con trai ông Đinh Công Trứ, một Nha tướng của Dương Quảng Nghệ, giữ chức Thứ sử Châu Hoan. Cha mất sớm, Đinh Bộ Lĩnh theo mẹ về quê, thường ngày đi chăn trâu, Lĩnh hay bắt lũ trẻ khoanh tay làm kiệu để ngồi, rồi cho chúng rước quanh đồng và lấy bông lau làm cờ, bày trận giả để đánh nhau.
+ Lớn lên, nhờ thông minh, có khí phách và có tài thao lược, thấy nhân dân khổ sở vì loạn 12 sứ quân, ông bèn dựng cờ khởi nghĩa, mong lập nghiệp lớn.
+Đinh Bộ Lĩnh đi theo ngọn cờ của Trần Minh Công (tức Trần Lãm) ở Bố Hải Khẩu và được Trần Lãm nhận làm con nuôi. Khi Trần Lãm mất, Đinh Bộ Lĩnh thay quyền, đem quân về giữ Hoa Lư (Ninh Bình), ông đứng ra chiêu mộ hào kiệt để dẹp loạn 12 sứ quân.
+(Sự hình thành 12 sứ quân như sau: Từ ngày Đường Tam Kha cướp ngôi nhà Ngô, các nơi không chịu thần phục Đường Tam Kha, nên giặc giã nổi lên như sóng, mỗi thủ lĩnh cát cứ một vùng, thường đem quân đánh chiếm lẫn nhau, gây ra cảnh “nồi da nấu thịt” kéo dài suốt 20 năm).
+Sau 2 năm đánh Đông dẹp Bắc, năm 968, Đinh Bộ Lĩnh đã dẹp xong loạn 12 sứ quân, ông lên ngôi Hoàng đế, xưng là Đại Thắng Minh Hoàng Đế, đặt niên hiệu là Thái Bình, đặt quốc hiệu là Đại Cồ Việt, đóng đô ở Hoa Lư (Ninh Bình).
     `,
     artwork:
-      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FAnh%20h%C3%B9ng%20C%C3%B9%20Ch%C3%ADnh%20Lan.jpg?alt=media&token=285fac76-7916-4e24-a3e5-3a1b42d8a76c',
-    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FAnh%20h%C3%B9ng%20C%C3%B9%20Ch%C3%ADnh%20Lan.mp3?alt=media&token=3bddec2f-5c7e-414b-a854-555dfd550d3e',
+      'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/images%2FC%E1%BA%ADu%20b%C3%A9%20c%E1%BB%9D%20lau%20-%20%C4%90inh%20B%E1%BB%99%20L%C4%A9nh.jpg?alt=media&token=6f69ed55-a9c2-4dfa-a686-193a345b7fd2',
+    url: 'https://firebasestorage.googleapis.com/v0/b/history-book-739c7.appspot.com/o/audios%2FC%E1%BA%ADu%20b%C3%A9%20c%E1%BB%9D%20lau%20-%20%C4%90inh%20B%E1%BB%99%20L%C4%A9nh.mp3?alt=media&token=7f42f2af-ece5-41e2-805c-9c663e43cdfb',
     id: 15,
-    duration: 625,
+    duration: 2199,
   },
 ];
